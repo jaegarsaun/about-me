@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello , I'm Jaegar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<p align="center"> 🍁 Canada, NL || 💻 Web Developer </p>
+<h3 align="center"> 🍁 Canada, NL || 💻 Web Developer </h3>
 
 
 <br>
