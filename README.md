@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   &nbsp;
 </p>
-<br>
+
 <h3> Design Programs </h3>
 <p float="left">
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   &nbsp;
 </p>
-<br>
+
 <h3> IDE </h3>
 <p float="left">
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
