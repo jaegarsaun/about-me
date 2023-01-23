@@ -11,7 +11,7 @@
 <br>
 
 <h3><b>Skills</b></h3>
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 
