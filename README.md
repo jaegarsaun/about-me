@@ -17,7 +17,7 @@
 
 <h2><b>Skills</b></h2>
 <br>
-### Technologies
+<h3> Technologies </h3>
 <p float="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   &nbsp;
@@ -35,7 +35,7 @@
   &nbsp;
 </p>
 <br>
-### Design Programs
+<h3> Design Programs </h3>
 <p float="left">
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
   &nbsp;
@@ -45,7 +45,7 @@
   &nbsp;
 </p>
 <br>
-### IDE
+<h3> IDE </h3>
 <p float="left">
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
   &nbsp;
