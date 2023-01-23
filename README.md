@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello , Everybody! </b><img src="[Wave Gif](https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif)" width="35"></h1>
+<h1 align="center"><b>Hello , Everybody! </b><img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="35"></h1>
 <br>
 <h3 align="center"> 🍁 Canada, NL || 💻 Web Developer </h3>
 
