@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello Everybody! </b><img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="35">, I'm Jaegar</h1>
-<br>
-<h3 align="center"> <img src="https://img.shields.io/badge/-Canada%2C%20NL-%23ff311f?style=for-the-badge"> </h3>
+
+<h3 align="center"> <img src="https://img.shields.io/badge/-Canada%2C%20NL-%23ff311f?style=for-the-badge"> <img src="https://img.shields.io/badge/-Web%20Developer-%237e47ff?style=for-the-badge"></h3>
 
 
 <br>
