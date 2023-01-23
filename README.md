@@ -4,11 +4,12 @@
 <br>
 
 <h3><b>About me</b></h3>
-- Student at NSCC
-- Passionate Web Developer
-- Open for any work opportunities
+<ul>
+  <li>Student at NSCC</li>
+  <li>Passionate Web Developer</li>
+  <li>Open for any work opportunities</li>
+</ul>
 
-<br>
 
 <h3><b>Skills</b></h3>
 <br>
