@@ -54,7 +54,13 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   &nbsp;
 </p>
+<br>
+<h2 text-align="center">Projects</h2>
 
+| Project Name  | Language |
+| ------------- | ------------- | ------------- |
+| <a href="https://github.com/jaegarsaun/wordScrambleGame-Vuejs">World Scamble Game</a> | <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">  |
+| Content Cell  | Content Cell  |
     
 
 
