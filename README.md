@@ -6,8 +6,8 @@
 <br>
 
 
-### **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## **About me**
+
 <ul>
   <li>Student at NSCC</li>
   <li>Passionate Web Developer</li>
