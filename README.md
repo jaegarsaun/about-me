@@ -6,7 +6,7 @@
 <br>
 
 
-<h3><b>About me</b></h3>
+###<b>About me</b></h3>
 <ul>
   <li>Student at NSCC</li>
   <li>Passionate Web Developer</li>
