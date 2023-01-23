@@ -2,7 +2,7 @@
 
 <h3 align="center"> <img src="https://img.shields.io/badge/-Canada%2C%20NL-%23ff311f?style=for-the-badge"> <img src="https://img.shields.io/badge/-Web%20Developer-%237e47ff?style=for-the-badge"></h3>
 
-<p text-align="center">I'm currently studying at NSCC in their IT Programming course. I asspire to be a full fledged front-end devleoper in the future, but as of now I am still studying. In my freetime I enjoy to practice and hone my coding skills by creating small projects that are useful to me in some way. </p>
+<p text-align="center">I'm currently studying at NSCC in their IT Programming course. I asspire to be a full fledged front-end devleoper in the future, but as of now I am still studying. In my freetime I enjoy to practice and hone my coding skills by creating small projects that are useful to me in some way. I'm currently involved in a few larger scalled projects, and you can view the details below. Feel free to look around and see the work I've done</p>
 
 
 <br>
