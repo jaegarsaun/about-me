@@ -58,7 +58,7 @@
 </p>
 <br>
 <h2 text-align="center">Projects</h2>
-<a src="https://github.com/jaegarsaun/prepared-plus">Prepared Plus</a>
+[Prepared Plus](https://github.com/jaegarsaun/prepared-plus)
 
 
     
