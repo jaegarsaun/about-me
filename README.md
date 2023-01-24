@@ -60,7 +60,7 @@
 <h2 text-align="center">Projects</h2>
 <br>
 
-<a href="https://github.com/jaegarsaun/prepared-plus">Prepared Plus</a>
+<a href="https://github.com/jaegarsaun/prepared-plus"><b>Prepared Plus</b></a>
 
 
     
