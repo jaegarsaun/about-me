@@ -86,8 +86,9 @@ A Contracted website made for a chef and their local business.
 A Multi-Select chip system that allows users to select multiple options by clicking buttons
 <br>
 <p float="left">
-  <a href="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"><b>Word Scramble Game</b></a>
+  <a href="https://github.com/jaegarsaun/wordScrambleGame-Vuejs"><b>Word Scramble Game</b></a>
   &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </p>
 
 A game where you are given a word that is scrambled, and you need to guess the correct word displayed.
