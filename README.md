@@ -58,6 +58,7 @@
 </p>
 <br>
 <h2 text-align="center">Projects</h2>
+<br>
 [Prepared Plus](https://github.com/jaegarsaun/prepared-plus)
 
 
