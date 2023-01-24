@@ -57,7 +57,7 @@
   &nbsp;
 </p>
 <br>
-<h2 text-align="center">Projects</h2>
+<h2 text-align="center">Recent Projects</h2>
 <br>
 <p float="left">
   <a href="https://github.com/jaegarsaun/prepared-plus"><b>Prepared Plus</b></a>
@@ -92,6 +92,9 @@ A Multi-Select chip system that allows users to select multiple options by click
 </p>
 
 A game where you are given a word that is scrambled, and you need to guess the correct word displayed.
+
+<br>
+<h2>Contact Me</h2>
 
 
     
