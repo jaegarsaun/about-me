@@ -59,8 +59,17 @@
 <br>
 <h2 text-align="center">Projects</h2>
 <br>
+<p float="left">
+  <a href="https://github.com/jaegarsaun/prepared-plus"><b>Prepared Plus</b></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white">
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  &nbsp;
+</p>
 
-<a href="https://github.com/jaegarsaun/prepared-plus"><b>Prepared Plus</b></a>
+A Contracted website made for a chef and their local business.
 
 
     
