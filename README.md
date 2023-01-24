@@ -74,7 +74,7 @@ A Contracted website made for a chef and their local business.
 <br>
 <p float="left">
   <a href="https://github.com/jaegarsaun/dynamic-multiSelect-chips"><b>Multi-Select Chips</b></a>
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white">
@@ -84,6 +84,15 @@ A Contracted website made for a chef and their local business.
 </p>
 
 A Multi-Select chip system that allows users to select multiple options by clicking buttons
+<br>
+<p float="left">
+  <a href="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"><b>Word Scramble Game</b></a>
+  &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  &nbsp;
+</p>
+
+A game where you are given a word that is scrambled, and you need to guess the correct word displayed.
 
 
     
