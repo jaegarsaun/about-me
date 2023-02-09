@@ -95,7 +95,7 @@ A game where you are given a word that is scrambled, and you need to guess the c
 
 <br>
 <h2>Contact Me</h2>
-  Email: jaegarls@icloud.com
+  <a href="mailto:jaegarls@icloud.com">jaegarls@icloud.com</a>
   <br>
 <h2>My Enviroment</h2>
 <br>
