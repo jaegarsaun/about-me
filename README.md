@@ -95,7 +95,16 @@ A game where you are given a word that is scrambled, and you need to guess the c
 
 <br>
 <h2>Contact Me</h2>
-
+  Email: jaegarls@icloud.com
+  <br>
+<h2>My Enviroment</h2>
+<br>
+<ul>
+  <li>VSCode / InteliJ</li>
+  <li>Macbook Air M2 2022</li>
+  <li>Keychron V1 | Gateron Milky Yellow Switches</li>
+  <l1>3x Dell SE2422H</l1>
+</ul>
 
     
 
